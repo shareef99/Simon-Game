@@ -5,5 +5,7 @@ Simon is an electronic game of memory skill invented by Ralph H. Baer and Howard
 here i try to recreate simon game on web .
 check this out by cliking below
 
+https://shareef99.github.io/Simon-Game/
+
 
 give your feedback at nadeemshareef934@gmail.com
